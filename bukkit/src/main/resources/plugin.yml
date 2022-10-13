@@ -1,0 +1,7 @@
+name: AntiToolBox
+version: '${project.version}'
+main: me.khanh.plugins.antitoolbox.bukkit.AntiToolBoxBukkit
+api-version: 1.16
+depend: [ floodgate ]
+authors: [ KhanhHuynh ]
+description: Anti toolbox for bukkit(spigot, paper, ..) server

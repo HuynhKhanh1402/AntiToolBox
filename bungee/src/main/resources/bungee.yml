@@ -1,0 +1,4 @@
+name: AntiToolBox
+version: '${project.version}'
+main: me.khanh.plugins.antitoolbox.bungee.AntiToolBoxBungee
+description: Anti toolbox for Bungeecord(Waterfall, XCord...)
